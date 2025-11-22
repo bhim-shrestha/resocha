@@ -102,7 +102,7 @@ When available, we will:
 We appreciate security researchers who:
 - Follow responsible disclosure practices
 - Give us reasonable time to fix issues
-- Don't exploit vulnerabilities maliciously
+- Do not exploit vulnerabilities maliciously
 
 We will:
 - Acknowledge your contribution
@@ -143,4 +143,4 @@ For general questions: Use GitHub Discussions or Issues
 
 ---
 
-**Remember: Safety first! If you're unsure about anything, ask for help.** 
+**Remember: Safety first. If you are unsure about anything, ask for help.** 

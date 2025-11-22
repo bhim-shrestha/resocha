@@ -1,4 +1,4 @@
-# Why Can't We Harvest Wireless Power? The Deep Truth
+# Why Cannot We Harvest Wireless Power? The Deep Truth
 
 **Your intuition is correct:** Power IS everywhere. But there are physical laws, regulations, and economics stopping us—not just technology.
 
@@ -52,7 +52,7 @@ Powering a light with that same beam = Impossible (no energy)
 
 ## Part 2: The Regulation Problem (Legal Barriers)
 
-### FCC Power Limits (USA) - Why You CAN'T Just Transmit More Power
+### FCC Power Limits (USA) - Why You Cannot Just Transmit More Power
 
 ```
 Current RF Band Limits:

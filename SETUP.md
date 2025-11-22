@@ -66,7 +66,7 @@ The simulator will:
 3. **Analyze device capabilities**:
    - What can be powered (sensors, displays)
    - What cannot be powered (phones, LEDs)
-   - Time to charge iPhone (spoiler: centuries!)
+   - Time to charge iPhone (spoiler: centuries)
 
 4. **Generate visualization**:
    - Creates `scenario_comparison.png`
@@ -78,7 +78,7 @@ The simulator will:
 ## Expected Output Example
 
 ```
-🔋 ResoCharge RF Energy Harvesting Simulator
+ResoCharge RF Energy Harvesting Simulator
 ======================================================================
 
 SCENARIO 1: Urban Apartment
@@ -105,10 +105,10 @@ Cellular 1900MHz    @ 1900.0 MHz:     2.91 μW (eff:  35.2%)
 
 DEVICE CAPABILITIES
 ----------------------------------------------------------------------
-Temperature Sensor (10 μW)        : ✅ CAN POWER (152% of requirement)
-Motion Detector (20 μW)           : ⚠️ MARGINAL (76% of requirement)
-E-ink Display (50 μW)             : ❌ INSUFFICIENT (30% of requirement)
-LED (5 mW)                        : ❌ INSUFFICIENT (0.3% of requirement)
+Temperature Sensor (10 μW)        : CAN POWER (152% of requirement)
+Motion Detector (20 μW)           : MARGINAL (76% of requirement)
+E-ink Display (50 μW)             : INSUFFICIENT (30% of requirement)
+LED (5 mW)                        : INSUFFICIENT (0.3% of requirement)
 
 iPhone Charging Estimate:
   Time to full charge: 27397 days (75.0 years)
@@ -262,4 +262,4 @@ pip install -r requirements.txt
 
 ---
 
-**Ready to run!** Execute: `python3 resocharge_simulator.py`
+**Ready to run.** Execute: `python3 resocharge_simulator.py`

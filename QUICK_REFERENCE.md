@@ -240,7 +240,7 @@ If load needs 10 mW burst for 1 second:
 
 ## Common Mistakes to Avoid
 
- **Expecting too much power** - Ambient RF is weak!
+ **Expecting too much power** - Ambient RF is weak
  **Ignoring efficiency** - Every stage has losses
  **Single-band only** - Multi-band is essential
  **Poor impedance matching** - Wastes 50%+ power

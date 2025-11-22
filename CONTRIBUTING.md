@@ -1,8 +1,8 @@
 # Contributing to ResoCharge
 
-First off, thank you for considering contributing to ResoCharge! 
+First off, thank you for considering contributing to ResoCharge. 
 
-It's people like you that make ResoCharge such a great project. We welcome contributions from everyone, whether it's:
+It is people like you that make ResoCharge such a great project. We welcome contributions from everyone, whether it is:
 
 - Bug reports
 - Documentation improvements
@@ -87,7 +87,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 ### Documentation Improvements 
 
-Documentation is crucial! We welcome:
+Documentation is crucial. We welcome:
 
 - Fixing typos or grammar
 - Adding examples and tutorials
@@ -97,7 +97,7 @@ Documentation is crucial! We welcome:
 
 ### Code Contributions 
 
-We love pull requests! Areas where we need help:
+We welcome pull requests. Areas where we need help:
 
 **Simulation & Modeling:**
 - Improve power calculation accuracy
@@ -409,11 +409,9 @@ By contributing, you agree that your contributions will be licensed under the MI
 
 ---
 
-## Thank You! 
+## Thank You 
 
-Your contributions make this project better for everyone. Whether you're fixing a typo or adding a major feature, every contribution is valued!
-
-**Let's harvest some energy together!** 
+Your contributions make this project better for everyone. Whether you are fixing a typo or adding a major feature, every contribution is valued.
 
 ---
 

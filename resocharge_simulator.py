@@ -507,9 +507,9 @@ def compare_scenarios(enable_resonance: bool = False):
     print("\n" + "=" * 70)
     print("RESOCHARGE - RF ENERGY HARVESTING SCENARIO COMPARISON")
     if enable_resonance:
-        print("🔊 MULTI-BAND RESONANCE: ENABLED (1.5x boost)")
+        print("MULTI-BAND RESONANCE: ENABLED (1.5x boost)")
     else:
-        print("🔇 MULTI-BAND RESONANCE: DISABLED (standard mode)")
+        print("MULTI-BAND RESONANCE: DISABLED (standard mode)")
     print("=" * 70)
 
     comparison_data = []
@@ -579,21 +579,21 @@ def compare_scenarios(enable_resonance: bool = False):
 
     plt.tight_layout()
     plt.savefig('scenario_comparison.png', dpi=300, bbox_inches='tight')
-    print("\n📊 Comparison chart saved as 'scenario_comparison.png'")
+    print("\nComparison chart saved as 'scenario_comparison.png'")
 
     return comparison_data
 
 
 if __name__ == "__main__":
-    print("🔋 ResoCharge RF Energy Harvesting Simulator")
+    print("ResoCharge RF Energy Harvesting Simulator")
     print("=" * 70)
-    print("\n📖 WHAT THIS SIMULATOR DOES:")
+    print("\nWHAT THIS SIMULATOR DOES:")
     print("   1. Simulates RF energy collection from ambient signals")
-    print("   2. Calculates harvestable power (spoiler: very little!)")
+    print("   2. Calculates harvestable power")
     print("   3. Tests 3 scenarios: Urban, Near tower, Rural")
     print("   4. Shows what devices could theoretically run on this power")
     print("   5. Tests with and WITHOUT multi-band resonance technology")
-    print("\n⚠️  IMPORTANT: Uses THEORETICAL data, not measurements!")
+    print("\nIMPORTANT: Uses THEORETICAL data, not measurements!")
     print("   - RF signal strengths are hard-coded estimates")
     print("   - Real-world results would vary based on your location")
     print("   - Physics limits harvestable power (inverse square law)")
@@ -602,7 +602,7 @@ if __name__ == "__main__":
     print("\n" + "=" * 70)
     print("RESONANCE MODE SELECTION")
     print("=" * 70)
-    print("\n🔊 Multi-Band Resonance Technology:")
+    print("\nMulti-Band Resonance Technology:")
     print("   - Simulates multi-frequency antenna resonance")
     print("   - Captures more energy by optimizing frequency matching")
     print("   - Provides 1.5x power boost (50% improvement)")
@@ -619,28 +619,28 @@ if __name__ == "__main__":
     print("\n" + "=" * 70)
     print("SUMMARY")
     print("=" * 70)
-    print("\n✅ FEASIBLE APPLICATIONS:")
+    print("\nFEASIBLE APPLICATIONS:")
     print("  • Temperature/humidity sensors (10-50 μW)")
     print("  • Motion detectors (5-20 μW)")
     print("  • E-ink displays (static, 20-50 μW)")
     print("  • Battery-free IoT nodes")
 
-    print("\n⚠️  CHALLENGING APPLICATIONS:")
+    print("\nCHALLENGING APPLICATIONS:")
     print("  • Active displays (>100 μW)")
     print("  • Wireless communication (burst mode only)")
     print("  • LEDs (supplemental power only)")
 
-    print("\n❌ NOT FEASIBLE (Current Technology):")
+    print("\nNOT FEASIBLE (Current Technology):")
     print("  • Smartphone charging")
     print("  • Laptop charging")
     print("  • Any device requiring >1 mW continuous")
 
-    print("\n💡 RECOMMENDATIONS:")
-    print("  1. Target ultra-low-power IoT sensors (BEST MATCH)")
+    print("\nRECOMMENDATIONS:")
+    print("  1. Target ultra-low-power IoT sensors")
     print("  2. Use supercapacitor for burst operations")
     print("  3. Position near cellular towers for optimal performance")
     print("  4. Implement multi-band harvesting (6+ frequency bands)")
     print("  5. Consider hybrid RF+Solar for higher power needs")
 
-    print("\n🚀 Next: Build prototype and validate measurements!")
+    print("\nNext: Build prototype and validate measurements!")
     print("=" * 70 + "\n")

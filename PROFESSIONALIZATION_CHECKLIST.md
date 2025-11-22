@@ -143,7 +143,7 @@
 ### What Is NOT Allowed
 
 **Strictly prohibited:**
-- Emojis: 🚀 ✅ ❌ 💡 etc.
+- Emojis: rocket, check mark, cross mark, light bulb etc.
 - Emoticons: :) :( ;) etc.
 - Casual language: "awesome", "cool", "tons of"
 - Contractions: can't, won't, doesn't

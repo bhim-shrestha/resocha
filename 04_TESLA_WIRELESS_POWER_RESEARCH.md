@@ -84,7 +84,7 @@ Tesla predicted this ~60 years before Schumann!
 - Earth can conduct electricity
 
 #### What Tesla Got Wrong 
-- Can't overcome inverse-square law easily
+- Cannot overcome inverse-square law easily
 - Power density too low at distance
 - Ionosphere not as perfect as thought
 - Economic model problematic
@@ -395,14 +395,14 @@ Where:
 2. **Resonance is the key** - efficiency multiplier
 3. **Think in frequencies** - each has properties
 4. **Environment contains energy** - tap into it
-5. **Don't give up** - breakthrough takes persistence
+5. **Do not give up** - breakthrough takes persistence
 
 **How We Apply It:**
 - **Resonant multi-band rectenna** array
 - **Tuned to WiFi, cellular, FM, TV**
 - **Harvest ambient RF** (not transmit)
-- **Use modern semiconductors** Tesla didn't have
-- **Achieve what Tesla couldn't** - because we're receivers, not transmitters!
+- **Use modern semiconductors** Tesla did not have
+- **Achieve what Tesla could not** - because we are receivers, not transmitters!
 
 **Tesla would approve.** 
 

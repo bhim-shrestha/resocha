@@ -1,14 +1,5 @@
 # ResoCharge: Ambient RF Energy Harvesting System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/bhim-shrestha/resocha?style=social)](https://github.com/bhim-shrestha/resocha/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/bhim-shrestha/resocha?style=social)](https://github.com/bhim-shrestha/resocha/network/members)
-[![Status](https://img.shields.io/badge/Status-Research%20Phase-yellow)](https://github.com/bhim-shrestha/resocha)
-[![Technology](https://img.shields.io/badge/Technology-RF%20Harvesting-blue)](https://github.com/bhim-shrestha/resocha)
-[![Inspired By](https://img.shields.io/badge/Inspired%20By-Nikola%20Tesla-purple)](https://github.com/bhim-shrestha/resocha)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/bhim-shrestha/resocha/blob/main/CONTRIBUTING.md)
-
 > *"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."* — Nikola Tesla
 
 ## About the Name
@@ -27,7 +18,7 @@ This repository contains comprehensive research and technical documentation:
  - How iPhone Qi wireless charging works
  - Electromagnetic induction principles
  - Frequency and power characteristics
- - Why it doesn't work at distance
+ - Why it does not work at distance
 
 2. **[02_FREQUENCY_AND_ENERGY_PHYSICS.md](02_FREQUENCY_AND_ENERGY_PHYSICS.md)**
  - Planck-Einstein relation (E = h × f)
@@ -73,31 +64,31 @@ This repository contains comprehensive research and technical documentation:
 
 ## Key Findings
 
-### What Works (Proven)
+## What Works (Proven)
 
-- **Physics is sound**: RF energy can be harvested from ambient sources
-- **Technology exists**: Rectenna technology is mature (since 1960s)
-- **Multi-band helps**: Harvesting multiple frequencies increases power
-- **Perfect for IoT**: Ultra-low-power sensors can run indefinitely
+- Physics is sound: RF energy can be harvested from ambient sources
+- Technology exists: Rectenna technology is mature (since 1960s)
+- Multi-band helps: Harvesting multiple frequencies increases power
+- Perfect for IoT: Ultra-low-power sensors can run indefinitely
 
-### The Challenge
+## The Challenge
 
-**Power Density Gap:**
+Power Density Gap:
 - iPhone needs: 5-15 W for charging
 - Typical ambient RF: 10-100 μW/m² available
 - Best case harvest: 1-130 μW realistic
-- **Gap: ~100,000× too low for smartphone charging**
+- Gap: ~100,000× too low for smartphone charging
 
-### Realistic Applications
+## Realistic Applications
 
 | Application | Power Need | Feasibility | Status |
 |-------------|------------|-------------|--------|
-| **Temperature sensor** | 10 μW | Excellent | Proven |
-| **Motion detector** | 20 μW | Excellent | Proven |
-| **E-ink display** | 50 μW | Good | Proven |
-| **Battery-free IoT** | 10-100 μW | Excellent | **Best Target** |
-| **LED lighting** | 5 mW | Supplemental | Challenging |
-| **Smartphone charging** | 5000 mW | Not feasible | Requires breakthrough |
+| Temperature sensor | 10 μW | Excellent | Proven |
+| Motion detector | 20 μW | Excellent | Proven |
+| E-ink display | 50 μW | Good | Proven |
+| Battery-free IoT | 10-100 μW | Excellent | Best Target |
+| LED lighting | 5 mW | Supplemental | Challenging |
+| Smartphone charging | 5000 mW | Not feasible | Requires breakthrough |
 
 ## Technical Design
 
@@ -125,7 +116,7 @@ RF Sources (Ambient) Harvester System Output
 
 ```
 
-### Expected Performance
+## Expected Performance
 
 | Scenario | Power Harvested | Applications |
 |----------|-----------------|--------------|

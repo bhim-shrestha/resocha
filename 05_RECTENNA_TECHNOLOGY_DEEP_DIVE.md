@@ -385,7 +385,7 @@ P_out = V_load × I_load
 ### C. Ambient Backscatter
 
 **Innovative Approach:**
-- Don't generate RF, reflect existing signals
+- Do not generate RF, reflect existing signals
 - Modulate reflection for communication
 - Ultra-low power (microwatts)
 - Potential for battery-free devices

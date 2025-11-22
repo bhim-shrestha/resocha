@@ -645,7 +645,7 @@ Verdict: Versatile option
 4. **Plan ahead** (charge before going out)
 
 **Reverse wireless charging is:**
-- Cool technology demo
+- Notable technology demo
 - Useful for small accessories
 - Helpful in emergencies
 - Not replacement for proper charging
@@ -690,7 +690,7 @@ Verdict: Versatile option
 
 1. **Technology exists** - Many Android phones have it
 2. **iPhone doesn't have it** - Apple hasn't enabled it
-3. **Efficiency is low** - Only 40-50%, lots of heat
+3. **Efficiency is low** - Only 40-50%, significant heat
 4. **Speed is slow** - 4.5-5W, takes hours
 5. **Good for accessories** - Earbuds, smartwatch
 6. **Bad for phones** - Too slow, drains both
