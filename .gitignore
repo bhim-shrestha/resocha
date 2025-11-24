@@ -83,3 +83,4 @@ private/
 measurements/
 test_data/*.private
 local_config.json
+.github/
